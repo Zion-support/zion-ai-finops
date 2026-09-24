@@ -6,6 +6,6 @@ Part of the **Zion AI App Network** — 678+ interlinked AI apps, tools and play
 - 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
 - 🐙 Hub: https://github.com/Zion-support/zion-app-network
 - 🌐 Live app: https://ziontechgroup.com/zion-ai-finops/
-- 🔗 Related: [Cloud Budget Guard](https://ziontechgroup.com/cloud-budget-guard/) · [Cloud Cost Estimator](https://ziontechgroup.com/cloud-cost-estimator/) · [Discovery](https://ziontechgroup.com/discovery/)
+- 🔗 Related: [Zion AI FinOps Optimizer](https://ziontechgroup.com/zion-ai-finops-optimizer/) · [Zion AI Cost Optimizer](https://ziontechgroup.com/zion-ai-cost-optimizer/) · [Discovery](https://ziontechgroup.com/discovery/)
 
 © 2026 Zion Tech Group.
